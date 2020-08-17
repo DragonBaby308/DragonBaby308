@@ -7,7 +7,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🤔 [个人博客（主）](www.dragonbaby308.com);
+- 🤔 [个人博客（主）](http://www.dragonbaby308.com/);
 - ⚡️ [个人博客（备）](https://dragonbaby308.github.io/);
 - 📫 邮箱: 2225072658@qq.com
   
